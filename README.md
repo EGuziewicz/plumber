@@ -55,7 +55,7 @@ znajduje się w twoim `PATH` oraz że `pygame` jest zainstalowane. Gra może by�
 przez wejście do jej folderu i uruchomienie komendy `python3.7 main.py`.
 
 ### Źródła
-Sprite'y użyte do rysowania rur zostały narysowane przeze mnie w [piskelapp.com/](www.piskelapp.com/).
+Sprite'y użyte do rysowania rur zostały narysowane przeze mnie w [piskelapp.com/](https://www.piskelapp.com/).
 W FAQ na ich stronie można znaleźć następującą informację: `We do not hold any rights on user creations made on piskelapp.com or with the offline Piskel editors.`,
 co oznacza, że mam do nich pełne prawa. Dźwięk odtwarzany przy klikaniu na rury pochodzi z
 [freesound.org/](https://freesound.org/people/GameAudio/sounds/220210/) i jest na licencji
